@@ -4,7 +4,7 @@ end
 
 def actor
   actor = {
-    name: "Denzel Washington"
+    name: "Dwayne The Rock Johnson"
   }
 
 end
